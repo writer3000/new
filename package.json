@@ -1,5 +1,6 @@
 {
   "name": "simple-blog",
+  "homepage": "https://writer3000.github.io/new",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
